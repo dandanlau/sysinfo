@@ -20,6 +20,7 @@ echo -e "\t 3. Memory Channel Population " >> sysinfo.txt
 echo -e "\t 4. Memory DIMMs detail " >> sysinfo.txt
 echo -e "\t Optional tool for more details " >> sysinfo.txt
 echo -e "\t 5. Power and Energy info - need ESMI installed" >> sysinfo.txt
+echo -e "\n\n" >> sysinfo.txt
 
 echo -e "============================ \t\t CPU info \t\t ==========================\n\n" >> sysinfo.txt
 lscpu >> sysinfo.txt
