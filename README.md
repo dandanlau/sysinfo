@@ -1,6 +1,7 @@
 # sysinfo
 
 This repo contains utility scripts to get necessary info of a server and diagnose performance issues
+
 sysinfo.sh 
 Below will be the info that is captured
 
