@@ -1,4 +1,4 @@
-# sysinfo
+# system utility
 
 This repo contains utility scripts to get necessary info of a server and diagnose performance issues
 
